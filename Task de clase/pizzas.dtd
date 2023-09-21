@@ -1,0 +1,11 @@
+<!ELEMENT order (pizzas,adress,client)>
+<!ELEMENT pizzas (pizza+)>
+<!ELEMENT pizza (type,extraingredient*)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT extraingredient (#PCDATA)>
+<!ELEMENT adress (street,number)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT client (name,surname)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT surname (#PCDATA)>

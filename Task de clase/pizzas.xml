@@ -1,0 +1,27 @@
+<!DOCTYPE order SYSTEM "pizzas.dtd">
+<order>
+    <pizzas>
+        <pizza>
+            <type>Margarita</type>
+            <extraingredient>pimientos morrones</extraingredient>
+        </pizza>
+        <pizza>
+            <type>Artesana</type>
+        </pizza>
+        <pizza>
+            <type>Artesana</type>
+        </pizza>
+        <pizza>
+            <type>Vegetal</type>
+        </pizza>
+
+    </pizzas>
+    <adress>
+        <street>Guanarteme</street>
+        <number>17</number>
+    </adress>
+    <client>
+        <name>Pepe</name>
+        <surname>Perez</surname>
+    </client>
+</order>

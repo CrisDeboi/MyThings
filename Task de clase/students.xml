@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<alumno>
+    <nombre>Joaquín</nombre>
+    <apellidos>Pérez Pérez</apellidos>
+    <modulos>
+        <modulo>LND</modulo>
+        <modulo>FOL</modulo>
+    </modulos>
+    <direccion>
+        <calle>Guanarteme</calle>
+        <numero>7</numero>
+    </direccion>
+</alumno>
