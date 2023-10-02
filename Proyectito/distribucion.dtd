@@ -1,0 +1,6 @@
+<!ELEMENT services (service*)>
+<!ELEMENT service (floor,section,side,specialization)>
+<!ELEMENT floor (#PCDATA)>
+<!ELEMENT section (#PCDATA)>
+<!ELEMENT side (#PCDATA)>
+<!ELEMENT specialization (#PCDATA)>

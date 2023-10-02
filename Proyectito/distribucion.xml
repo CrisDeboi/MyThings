@@ -1,0 +1,20 @@
+<medicines>
+    <types>
+        <painkillers>
+            <painkiller>
+                <name>Paracetamol</name>
+                <commercialnames>
+                        <commercialname>Termalgin</commercialname>
+                        <commercialname>Apiretal</commercialname>
+                </commercialnames>
+                <possibledoses>
+                        <dose>500</dose>
+                        <dose>650</dose>
+                        <dose>1000</dose>
+                </possibledoses>                    
+            </painkiller>
+            <painkiller>
+            </painkiller>
+        </painkillers>
+    </types>
+</medicines>

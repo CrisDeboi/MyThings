@@ -1,0 +1,185 @@
+<!DOCTYPE peluquerias SYSTEM "examen.dtd">
+<peluquerias>
+  <peluqueria>
+    <id>2558963</id>
+    <direccion>avenida mesa y lopez 23</direccion>
+    <empleados>
+      <empleado>
+        <nombre>Pepe Marrero</nombre>
+        <dni>12345678F</dni>
+        <fechaNacimiento>18/09/1996</fechaNacimiento>
+      </empleado>
+      <empleado>
+        <nombre>Fefito Lopez</nombre>
+        <dni>87654321K</dni>
+        <fechaNacimiento>26/03/1997</fechaNacimiento>
+      </empleado>
+      <empleado>
+        <nombre>Antonio Caranabo</nombre>
+        <dni>75913258Z</dni>
+        <fechaNacimiento>21/06/1987</fechaNacimiento>
+      </empleado>
+    </empleados>
+    <clientes>
+      <cliente>
+        <nombre>maria pepita</nombre>
+        <telefonos>
+          <telefono>928502565</telefono>
+        </telefonos>
+      </cliente>
+      <cliente>
+        <nombre>pepita maria</nombre>
+        <telefonos>
+          <telefono>928586987</telefono>
+          <telefono>602358471</telefono>
+        </telefonos>
+        <email>pepitamaria@gmail.com</email>
+      </cliente>
+      <cliente>
+        <nombre>paris hilton</nombre>
+        <telefonos>
+          <telefono>928475825</telefono>
+        </telefonos>
+        <email>pepitamaria@gmail.com</email>
+      </cliente>
+    </clientes>
+    <ofertas>
+      <oferta>
+        <servicio>alisado completo</servicio>
+        <precio>18,99</precio>
+        <descuento>25</descuento>
+      </oferta>
+      <oferta>
+        <servicio>tinte</servicio>
+        <precio>14,99</precio>
+        <descuento>35</descuento>
+      </oferta>
+      <oferta>
+        <servicio>rapado</servicio>
+        <precio>7,99</precio>
+        <descuento>10</descuento>
+      </oferta>
+    </ofertas>
+  </peluqueria>
+  <peluqueria>
+    <id>2879563</id>
+    <direccion>calle vergara 22</direccion>
+    <empleados>
+      <empleado>
+        <nombre>Tiburcio Cruz</nombre>
+        <dni>85621487A</dni>
+        <fechaNacimiento>28/02/1990</fechaNacimiento>
+      </empleado>
+      <empleado>
+        <nombre>Saul Martin</nombre>
+        <dni>65914583P</dni>
+        <fechaNacimiento>04/08/1945</fechaNacimiento>
+      </empleado>
+      <empleado>
+        <nombre>Carlos Fernandez</nombre>
+        <dni>61412347L</dni>
+        <fechaNacimiento>01/08/1980</fechaNacimiento>
+      </empleado>
+    </empleados>
+    <clientes>
+      <cliente>
+        <nombre>alberto garcia</nombre>
+        <telefonos>
+          <telefono>928542635</telefono>
+        </telefonos>
+      </cliente>
+      <cliente>
+        <nombre>thiago santana</nombre>
+        <telefonos>
+          <telefono>928989692</telefono>
+          <telefono>652847141</telefono>
+        </telefonos>
+        <email>pepitamaria@gmail.com</email>
+      </cliente>
+      <cliente>
+        <nombre>alex fernandez</nombre>
+        <telefonos>
+          <telefono>928586987</telefono>
+          <telefono>602358471</telefono>
+        </telefonos>
+      </cliente>
+    </clientes>
+    <ofertas>
+      <oferta>
+        <servicio>alisado completo</servicio>
+        <precio>18,99</precio>
+        <descuento>25</descuento>
+      </oferta>
+      <oferta>
+        <servicio>tinte</servicio>
+        <precio>14,99</precio>
+        <descuento>35</descuento>
+      </oferta>
+      <oferta>
+        <servicio>arreglo de barba</servicio>
+        <precio>8,99</precio>
+        <descuento>25</descuento>
+      </oferta>
+    </ofertas>
+  </peluqueria>
+  <peluqueria>
+    <id>2558474</id>
+    <direccion>calle veronica 11</direccion>
+    <empleados>
+      <empleado>
+        <nombre>ibai llanos</nombre>
+        <dni>59263514D</dni>
+        <fechaNacimiento>26/03/1995</fechaNacimiento>
+      </empleado>
+      <empleado>
+        <nombre>joaquin dominguez</nombre>
+        <dni>19843765K</dni>
+        <fechaNacimiento>04/05/1990</fechaNacimiento>
+      </empleado>
+      <empleado>
+        <nombre>jesus montero</nombre>
+        <dni>52648134G</dni>
+        <fechaNacimiento>12/01/1993</fechaNacimiento>
+      </empleado>
+    </empleados>
+    <clientes>
+      <cliente>
+        <nombre>cristiano ronaldo</nombre>
+        <telefonos>
+          <telefono>616071854</telefono>
+        </telefonos>
+      </cliente>
+      <cliente>
+        <nombre>fernando alonso</nombre>
+        <telefonos>
+          <telefono>616254102</telefono>
+        </telefonos>
+        <email>fernando33@gmail.com</email>
+      </cliente>
+      <cliente>
+        <nombre>napoleon bonaparte</nombre>
+        <telefonos>
+          <telefono>616251789</telefono>
+        </telefonos>
+        <email>napoleonohbueno@gmail.com</email>
+      </cliente>
+    </clientes>
+    <ofertas>
+      <oferta>
+        <servicio>corte mas barba</servicio>
+        <precio>10,99</precio>
+        <descuento>25</descuento>
+      </oferta>
+      <oferta>
+        <servicio>poner una peluca</servicio>
+        <precio>4,99</precio>
+        <descuento>5</descuento>
+      </oferta>
+      <oferta>
+        <servicio>secar el pelo</servicio>
+        <precio>8,99</precio>
+        <descuento>20</descuento>
+      </oferta>
+    </ofertas>
+  </peluqueria>
+</peluquerias>
