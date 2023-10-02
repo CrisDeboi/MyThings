@@ -1,0 +1,51 @@
+<!DOCTYPE services SYSTEM "hospital.dtd">
+<services>
+    <service>        
+        <floor>6</floor>
+        <section>A</section>
+        <side>Izquierda</side>
+        <specialization>Paliativos</specialization>     
+    </service>
+    <service>        
+        <floor>6</floor>
+        <section>A</section>
+        <side>Derecha</side>
+        <specialization>Medicina interna</specialization>     
+    </service>
+    <service>        
+        <floor>6</floor>
+        <section>B</section>
+        <side>Izquierda</side>
+        <specialization>Medicina interna</specialization>     
+    </service>
+    <service>        
+        <floor>6</floor>
+        <section>B</section>
+        <side>Derecha</side>
+        <specialization>Medicina interna</specialization>     
+    </service>
+    <service>        
+        <floor>5</floor>
+        <section>A</section>
+        <side>Izquierda</side>
+        <specialization>Cardiologia</specialization>     
+    </service>    
+    <service>        
+        <floor>5</floor>
+        <section>A</section>
+        <side>Derecha</side>
+        <specialization>Cardiologia</specialization>     
+    </service>
+    <service>        
+        <floor>5</floor>
+        <section>B</section>
+        <side>Izquierda</side>
+        <specialization>Digestivo</specialization>     
+    </service>    
+    <service>        
+        <floor>5</floor>
+        <section>B</section>
+        <side>Derecha</side>
+        <specialization>Neumologia</specialization>     
+    </service>    
+</services>
