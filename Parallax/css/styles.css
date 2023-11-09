@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 500vh;
+    background-color: black;
+}
+
+#text{
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 10em;
+    
+    height: 100vh;
+    width: 100vw;
+    vertical-align: middle;
+}
+
+#header-section{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+#header-section img{
+    position: absolute;
+    width: 100%;
+    object-fit: contain;
+}
+
+#bottom-section {
+    height: 400vh;
+    background-color: black;
+    z-index: 500;
+}
+
+
